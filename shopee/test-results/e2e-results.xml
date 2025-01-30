@@ -1,0 +1,11 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="12.711608">
+<testsuite name="tests\demo-shopee.spec.ts" timestamp="2025-01-30T08:24:40.458Z" hostname="Chrome" tests="1" failures="0" skipped="0" time="10.747" errors="0">
+<testcase name="has title" classname="tests\demo-shopee.spec.ts" time="10.747">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\..\test-results\tests-demo-shopee-has-title-Chrome\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

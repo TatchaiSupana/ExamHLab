@@ -1,0 +1,6 @@
+{
+    "timeout": 120000,
+    "baseUrl": "https://shopee.co.th/",
+    "baseApiUrl": "",
+    "baseAdminApiUrl": ""
+}

@@ -6,14 +6,13 @@
 
 ```bash
 $ npm init playwright@latest
-$ yarn run "test:shopee"
+$ yarn create playwright
 
 ```
 - step 2
 
 ```bash
 $ npx playwright install
-$ yarn run "test:shopee"
 
 ```
 
